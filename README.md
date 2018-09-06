@@ -8,3 +8,5 @@
 5. Additive Inverse  
 6. Playfair Cipher.  
 7. DES Algorithm.  
+8. Keyed Cipher.  
+9. Keyless Cipher.  
