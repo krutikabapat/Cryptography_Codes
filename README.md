@@ -6,3 +6,5 @@
 3. Hill Cipher  
 4. Affine Cipher  
 5. Additive Inverse  
+6. Playfair Cipher.  
+7. DES Algorithm.  
